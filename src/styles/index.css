@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: rgba(238, 238, 238, 0.836);
+}
+.app-nav-bar {
+  background-color: #3692fa !important;
+}
+.app-nav-bar .van-nav-bar__title {
+  color: #fff;
+}
+.app-nav-bar .van-icon {
+  color: #fff !important;
+}

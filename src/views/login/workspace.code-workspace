@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\微信小程序开发工具\\工作区\\university-elective-WeChat"
+		}
+	],
+	"settings": {
+		"prettier.semi": false,
+		"editor.formatOnSave": true
+	}
+}
